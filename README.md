@@ -1,2 +1,3 @@
-# Android
-Android开发
+# Android实现水波纹效果
+
+类似网易云，听歌识曲中的水波纹界面
